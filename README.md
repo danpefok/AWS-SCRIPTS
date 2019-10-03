@@ -1,3 +1,6 @@
-# AWS-SCRIPTS
-Cool Scripts for Automation
-This is for my first file
+
+Ansible Examples
+----------------
+
+This repository contains examples and best practices for building Ansible Playbooks.
+
